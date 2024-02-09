@@ -17,6 +17,7 @@
 ![Screenshot (42)](https://github.com/FordPipatkittikul/Assignment-1-Python-Refresher/assets/121902625/e2c66e00-9fff-43a2-b05a-d65ec67c4b07)
 
 ### Output1:
+
 ![Screenshot (39)](https://github.com/FordPipatkittikul/Assignment-1-Python-Refresher/assets/121902625/d58ee12b-e9da-4a09-8aaf-e6f18619b94e)
 
 ### Output2:
