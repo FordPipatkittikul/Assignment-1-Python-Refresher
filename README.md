@@ -25,6 +25,7 @@
 ![Screenshot (39)](https://github.com/FordPipatkittikul/Assignment-1-Python-Refresher/assets/121902625/d58ee12b-e9da-4a09-8aaf-e6f18619b94e)
 
 ### Output2:
+
 ![Screenshot (40)](https://github.com/FordPipatkittikul/Assignment-1-Python-Refresher/assets/121902625/0b722097-d12f-4448-b717-09dd44b730d3)
 
 ### Graph:
