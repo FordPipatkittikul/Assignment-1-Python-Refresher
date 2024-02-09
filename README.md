@@ -29,6 +29,7 @@
 ![Screenshot (40)](https://github.com/FordPipatkittikul/Assignment-1-Python-Refresher/assets/121902625/0b722097-d12f-4448-b717-09dd44b730d3)
 
 ### Graph:
+
 ![graph turn in](https://github.com/FordPipatkittikul/Assignment-1-Python-Refresher/assets/121902625/d653006b-205d-4ab4-9dba-eb720bfa900f)
 
 As you can see, the execution time increases as the input value (n) increases. This gradual increase suggests a linear time complexity
